@@ -47,15 +47,6 @@ I'm Ahamed Ali Z, a passionate Full-Stack Developer with expertise in frontend, 
 
 ## 📊 My stats ⭐
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ahamed-ali-git&show_icons=true&theme=aura" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-ali-git&layout=compact&theme=aura" width="300"/>
-    </td>
-  </tr>
-</table>
+
 
 ### 🚀 Thanks for stopping by! 😃
