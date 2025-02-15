@@ -57,6 +57,16 @@ I'm Ahamed Ali Z, a passionate Full-Stack Developer with expertise in frontend, 
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamed-ali-git&theme=radical" />
 </p>
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahamed-ali-git&theme=radical&row=1&column=6)](https://GitHub.com/ryo-ma/GitHub-profile-trophy)
+
+### 📈 Contribution Graph
+
+[![ahamedali's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ahamed-ali-git&theme=react-dark)](https://github.com/ashutosh00710/GitHub-readme-activity-graph)
+
+
+
 
 
 ### 🚀 Thanks for stopping by! 😃
