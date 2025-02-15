@@ -48,13 +48,13 @@ I'm Ahamed Ali Z, a passionate Full-Stack Developer with expertise in frontend, 
 
 ## 📊 My stats ⭐
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=syediyanulla&show_icons=true&theme=radical&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=syediyanulla&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ahamed-ali-git&show_icons=true&theme=radical&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamed-ali-git&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syediyanulla&layout=compact&theme=radical" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syediyanulla&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-ali-git&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamed-ali-git&theme=radical" />
 </p>
 
 
