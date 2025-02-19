@@ -44,7 +44,7 @@ I'm Ahamed Ali Z, a passionate Full-Stack Developer with expertise in frontend, 
 </p>
 
 ## 🏢 For Collaboration
-- 📄 [My Resume/CV](https://drive.google.com/file/d/1E2k8QuIMdSxbxVcdA4vRORHCTLX_U_hu/view?usp=sharing)
+- 📄 [My Resume/CV](https://drive.google.com/file/d/1ayXXKtKjPhGQ7A0Q9VkKrffvKJ41AHAu/view?usp=sharing)
 - 📧 ahamedaliz2004@gmail.com
 
 ## 📊 My stats ⭐
