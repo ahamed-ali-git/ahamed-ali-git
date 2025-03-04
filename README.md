@@ -54,7 +54,7 @@ I'm Ahamed Ali Z, a passionate Full-Stack Developer with expertise in frontend, 
 </p>
 
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-ali-git&layout=compact&langs_count=10&theme=radical" />
+  <img  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahamed-ali-git&layout=compact&langs_count=10&theme=radical" />
   <br>
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahamed-ali-git&theme=radical" />
 </p>
