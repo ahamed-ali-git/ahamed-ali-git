@@ -56,7 +56,7 @@ Node.js • Express.js • PostgreSQL • Redis • Docker • Jenkins • AWS E
 
 <p align="left">
 
-<a href="https://ahamedaliz.vercel.app">
+<a href="https://ahamed-ali-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white">
 </a>
 
